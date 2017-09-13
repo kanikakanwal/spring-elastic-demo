@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-elastic-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MY HP
+Implementation-Vendor-Id: com.techprimers.elastic
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/spring-elast
+ ic-demo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
